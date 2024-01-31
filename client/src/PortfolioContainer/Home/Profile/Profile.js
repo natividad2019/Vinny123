@@ -12,13 +12,13 @@ export default function Profile() {
               <a href="https://www.facebook.com/vinodh.chellapilli">
                 <i className="fa fa-facebook-square"></i>
               </a>
-              <a href="#">
-                <i className="fa fa-google-plus-square"></i>
+              <a href="https://github.com/natividad2019">
+                <i className="fa fa-github"></i>
               </a>
               <a href="https://www.instagram.com/vinodhchellapilli/?hl=en">
                 <i className="fa fa-instagram"></i>
               </a>
-              <a href="https://www.youtube.com/@vinodhvinnyhawaiiusatelugu2907">
+              <a href="https://www.youtube.com/channel/UCTq6_zAxCmjYx8xdmuAWZEw">
                 <i className="fa fa-youtube-square"></i>
               </a>
 
@@ -29,7 +29,7 @@ export default function Profile() {
             <div className="profile-details-name">
               <span className="primary-text">
                 {" "}
-                Hello, I'M <span className="highlighted-text">Vinny</span>
+                Hello, I'm <span className="highlighted-text">Vinny</span>
               </span>
             </div>
           </div>
